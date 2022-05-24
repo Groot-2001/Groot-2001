@@ -3,4 +3,19 @@
 
 <h1 align="center">Technologies and tools that I used :</h1>
 
+<p>
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/cpp.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/c.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/javascript.svg ">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/html.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/css.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/node.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/express.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/mongodb.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/git.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/postman.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/vscode.svg">
+
+</p>
+
 ![lastwave](https://user-images.githubusercontent.com/101672059/169650607-367afa23-153b-466f-b957-1c8c04e5f66e.svg)
