@@ -15,7 +15,7 @@
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/git.svg">
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/postman.svg">
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/vscode.svg">
-<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/linux.svg">
+<img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/linux.svg"><br>
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/react.svg">
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/sass.svg">
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/php.svg">
