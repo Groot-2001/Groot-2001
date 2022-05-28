@@ -24,17 +24,25 @@
 
 <h1 align="center">Contact</h1>
 
-
 <p align="center">
- 
  <a href="mailto:shivaswami841@gmail.com">
-    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
  </a>
- 
   <a href="https://www.linkedin.com/in/shiva-silmawala-0876261a3/">
    <img width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg">
  </a>
-  
  </p>
+ 
+ <h1 align="center">Follow</h1>
+ 
+ <p align="center">
+ <a href="https://www.instagram.com/shivajagtapn/">
+    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
+ </a>
+  <a href="https://www.facebook.com/shiva jagtapn">
+   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg">
+ </a>
+ </p>
+ 
   
 ![lastwave](https://user-images.githubusercontent.com/101672059/169650607-367afa23-153b-466f-b957-1c8c04e5f66e.svg)
