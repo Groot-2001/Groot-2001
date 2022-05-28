@@ -1,7 +1,7 @@
 ![wave](https://user-images.githubusercontent.com/101672059/169646642-08a60872-43f3-446c-8b4a-b463d7c0b0e7.svg)
 ![intro](https://user-images.githubusercontent.com/101672059/169650508-4e4f6458-e231-479c-b9ed-a201014dd88d.svg)
 
-<h1 align="center">Technologies and tools that I used : 
+<h1 align="center">Technologies and tools that I have used : 
 <p align="center">
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/cpp.svg">
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/c.svg">
