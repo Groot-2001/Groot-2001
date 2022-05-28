@@ -27,7 +27,9 @@
 
 <p align="center">
  
-  ![https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg](https://www.linkedin.com/in/shiva-silmawala-0876261a3/)
+  <a href="https://www.linkedin.com/in/shiva-silmawala-0876261a3/">
+   <img width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg">
+ </a>
   
  </p>
   
