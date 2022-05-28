@@ -27,6 +27,10 @@
 
 <p align="center">
  
+ <a href="mailto:shivaswami841@gmail.com">
+    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+ </a>
+ 
   <a href="https://www.linkedin.com/in/shiva-silmawala-0876261a3/">
    <img width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg">
  </a>
