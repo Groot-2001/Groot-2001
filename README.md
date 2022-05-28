@@ -22,4 +22,13 @@
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/typescript.svg">
 </p>
 
+<h1 align="center">Contact</h1>
+
+
+<p align="center">
+ 
+  ![https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg](https://www.linkedin.com/in/shiva-silmawala-0876261a3/)
+  
+ </p>
+  
 ![lastwave](https://user-images.githubusercontent.com/101672059/169650607-367afa23-153b-466f-b957-1c8c04e5f66e.svg)
