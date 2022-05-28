@@ -39,7 +39,7 @@
  <a href="https://www.instagram.com/shivajagtapn/">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
  </a>
-  <a href="https://www.facebook.com/shiva jagtapn">
+  <a href="https://www.facebook.com/shivajagtapn">
    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg">
  </a>
  </p>
