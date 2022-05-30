@@ -42,5 +42,9 @@
  </p><br>
 </h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
   
 ![lastwave](https://user-images.githubusercontent.com/101672059/169650607-367afa23-153b-466f-b957-1c8c04e5f66e.svg)
