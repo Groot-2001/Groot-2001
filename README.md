@@ -21,7 +21,7 @@
 <img width="50" src="https://raw.githubusercontent.com/Groot-2001/Groot-2001/main/New%20folder%20(2)/typescript.svg">
 </p><br>
  
- Contact me
+ Contact Me
  <p>
   <a href="mailto:shivaswami841@gmail.com">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
@@ -31,7 +31,7 @@
  </a> 
  </p><br>
  
- Follow
+ Follow 
  <p>
  <a href="https://www.instagram.com/shivajagtapn/">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
