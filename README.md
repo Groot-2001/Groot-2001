@@ -49,6 +49,7 @@
 ### :fire: My Stats :
 
 <div id="stats" align="center">
- <img width="250" src="https://github-readme-stats.vercel.app/api/?username=Groot-2001&theme=default"/><br>
+ <img width="400" src="https://github-readme-stats.vercel.app/api/?username=Groot-2001&theme=default"/><br>
 </div>
+
 ![lastwave](https://user-images.githubusercontent.com/101672059/169650607-367afa23-153b-466f-b957-1c8c04e5f66e.svg)
