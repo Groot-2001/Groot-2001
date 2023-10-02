@@ -46,4 +46,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+[![An image of @groot2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/groot2001)](https://holopin.io/@groot2001)
+
+
 ![lastwave](https://user-images.githubusercontent.com/101672059/169650607-367afa23-153b-466f-b957-1c8c04e5f66e.svg)
