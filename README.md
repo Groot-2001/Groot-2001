@@ -24,10 +24,12 @@
  Contact Me
  <p>
   <a href="mailto:shivaswami841@gmail.com">
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+    <img width="115" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
+ 
   <a href="https://www.linkedin.com/in/shiva-silmawala-0876261a3/">
-   <img width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg">
+   
+   <img width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a> 
  </p><br>
  
